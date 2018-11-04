@@ -1,0 +1,51 @@
+
+
+
+.title-box{
+	padding-top: 15%; 
+	padding-right: 10%;
+}
+
+.title{
+	font-size: 60px;
+	font-weight: 700px;
+}
+
+.description{
+	font-size: 25px; 
+}
+
+.social-icons{
+	padding-top: 20px;
+	padding-left: 0;
+	list-style: none;
+	display: inline-flex;
+
+}
+
+.social-icon{
+	width: 20%;
+	padding-right: 30px;
+	cursor: pointer; 
+}
+
+.btn{
+	background-color: rgba(0,0,0,0.4);
+	padding-top: 30px;
+	align-items: center;
+	align-content: center;
+	border-radius: 12px;
+}
+
+
+img{
+	width:100%;
+	filter: grayscale(90%);
+}
+
+.container
+{
+	padding: 2%;
+}
+
+
