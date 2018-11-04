@@ -2,7 +2,7 @@
 
 
 .title-box{
-	padding-top: 15%; 
+	padding-top: 25%; 
 	padding-right: 10%;
 }
 
@@ -29,13 +29,6 @@
 	cursor: pointer; 
 }
 
-.btn{
-	background-color: rgba(0,0,0,0.4);
-	padding-top: 30px;
-	align-items: center;
-	align-content: center;
-	border-radius: 12px;
-}
 
 
 img{
