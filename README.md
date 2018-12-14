@@ -4,6 +4,7 @@ This is the second project of the Full Stack Web Developer Nanodegree - UDACITY.
 
 A responsive portfolio website is to be built from scratch with HTML5, CSS3 and BOOTSTRAP3.
 
+# How does it Look Like ?
 
 ![alt text](https://raw.githubusercontent.com/siddartha19/portfolio/master/image/portfolio1.png)
 
