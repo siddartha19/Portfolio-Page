@@ -1,10 +1,12 @@
 
+
 /*****************Main*****************/
 
 
 *{
 	scroll-behavior: smooth;
 }
+
 
 
 .main-box{
@@ -80,7 +82,7 @@ margin-right: -5%;
 
 
 .progress{
-	width: 450px;
+	width: 80%;
 	margin-left: 15px;
 	height: 10px;
 }
@@ -135,7 +137,6 @@ margin-right: -5%;
   height: auto;
   margin: 15%;
   margin-top: 0;
-  font-family: "Comic Sans MS", cursive, sans-serif;
   color: black;
   border-radius: 5px;
   padding: 10px;
@@ -158,7 +159,7 @@ margin-right: -5%;
 /*******************WORK - LOGO***************************/
 
 .logos{
-	border: 1px solid black; 
+	border: 19px solid black; 
 	padding-top: 125px;
 	padding-bottom: 125px;
 }
@@ -228,6 +229,7 @@ margin-right: -5%;
 	margin: 5px;
 	border: 1px solid black;
 	border-radius: 5px;
+	padding: 10px;
 }
 
 #email{
@@ -236,14 +238,16 @@ margin-right: -5%;
 	margin: 5px;
 	border: 1px solid black;
 	border-radius: 5px;
+	padding: 10px;
 }
 
 #comment{
 	height: 200px;
-	width: 450px;
+	width: 350px;
 	margin: 5px;
 	border: 1px solid black;
 	border-radius: 10px;
+	padding: 10px;
 }
 
 .btn-submit{
