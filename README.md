@@ -8,7 +8,7 @@ It is a responsive website, so adjust your website to different sizes to see the
 
 # How does it Look Like ?
 
-![alt text](https://raw.githubusercontent.com/siddartha19/portfolio/master/image/portfolio1.png)
+![alt text](https://github.com/siddartha19/portfolio/blob/master/image/portfoilo1.png)
 
 
 # How do I run this?
