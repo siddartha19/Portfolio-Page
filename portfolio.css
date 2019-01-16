@@ -51,11 +51,17 @@ margin-right: -5%;
 	cursor: pointer; 
 }
 
+.so-icon{
+	width: 30px;
+}
+
 .portfolio-bt{
 	margin: 5%;
 	margin-left: 0%;
 	width: 150px;
 	border-radius: 30px;
+	background-color: #ff1967;
+	color: white;
 }
 
 
@@ -87,7 +93,7 @@ margin-right: -5%;
 .progress{
 	width: 80%;
 	margin-left: 15px;
-	height: 10px;
+	height: 5px;
 }
 
 .progress-bar{
@@ -100,6 +106,7 @@ margin-right: -5%;
 	padding: 10px;
 	padding-left: 15px;
 }
+
 
 /****************My work*****************/
 
@@ -130,20 +137,24 @@ margin-right: -5%;
   margin-top: 0;
   color: black;
   border-radius: 5px;
-  padding: 20px;
   box-shadow: 0 30px 30px rgba(0,0,0,.5);
 }
 
+.work:hover{
+	cursor: pointer;
+}
+
 .work-name{
-	padding: 0; 
+	padding-top: 20px; 
 	margin: 0; 
-	margin-bottom: 20px;
+	margin-bottom: 10px;
 	font-size: 25px; 
 	font-weight: bold;
 }
 
 .work-desc{
-	padding: 20px;
+	text-align: center;
+	padding: 40px;
 }
 
 .row {
@@ -160,24 +171,49 @@ margin-right: -5%;
     width: 100%;
 }
 
-/*******************WORK - LOGO***************************/
+/*******************say-hello***************************/
 
-.logos{
-	border: 19px solid black; 
-	padding-top: 125px;
-	padding-bottom: 125px;
+#say-hello{
+	background-color: rgba(0,0,0,0.1);
 }
 
-.work-logo{
-	padding: 10px;
-	margin-left: 60px;
-	filter: grayscale(100%);
-	width: 150px;
-	height: 80px;
+#say-hello div{
+	padding-top: 5%;
 }
 
+#say-hello p{
+	padding: 0;
+	line-height: 100px;
+	margin: 0;
+}
 
+.say-hello-btn{
+	margin-top: 3%;
+	width: 250px;
+	border-radius: 30px;
+	margin-bottom: 5%;
+	background-color: #ff1967;
+	color: white;
+	font-size: 20px;
+}
 
+/********************COUNTER*****************************/
+
+#counter-box{
+	padding: 100px;
+}
+
+.counter {
+    padding: 20px;
+    border-radius: 5px;
+}
+
+.count-text {
+    font-size: 15px;
+    margin-top: 10px;
+    margin-bottom: 0;
+    text-align: center;
+}
 
 /*******************Contact ME****************************/
 
@@ -186,9 +222,9 @@ margin-right: -5%;
 	width: 100%;
 	height: 10%
 	margin: 10px;
-	padding-top: 100px;
+	padding-top: 0px;
 	background-color: rgba(0,0,0,0.0);
-	margin-bottom: 50px;
+	margin-bottom: 5%;
 }
 
 .cont-title{
@@ -202,23 +238,38 @@ margin-right: -5%;
 .contact-details{
 	text-overflow: none;
 	font-family: arial;
-	font-size: 40px;
+	font-size: 25px;
 	list-style: none;
-	margin-left: 3%;
+	margin-left: 10%;
 	padding-bottom: 5%;
+	margin-top: 7%;
 	margin-bottom: 0;
-	margin-right: 0;
 }
 
 .details{
 	padding-top: 10px;
 	padding-bottom: 10px;
+	margin-bottom: 0;
 }
 
+
 .contact-icons{
-	margin-left: 2%;
-	margin-top: 0;
+	margin-left: 20%;
+	margin-top: 20px;
 	padding-top: 0px;
+	list-style: none;
+}
+
+.contact-icon{
+	width: 50px;
+	margin-right: 50px;
+	padding: 10px;
+	border: 4px solid black;
+	border-radius: 5px;
+}
+
+.contact-icon:hover{
+	border: 2px solid black;
 }
 
 .cont-form{
@@ -270,4 +321,6 @@ margin-right: -5%;
 	margin-left: 50px;
 	width: 250px;
 	border-radius: 30px;
+	background-color: #ff1967;
+	color: white;
 }
