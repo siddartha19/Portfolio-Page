@@ -11,7 +11,7 @@ It is a responsive website, so adjust your website to different sizes to see the
 
 # How do I run this?
 
-To view the website, open index.html using a browser or [CLICK HERE](https://siddartha19.github.io/portfolio/)
+To view the website, open index.html using a browser or [CLICK HERE](https://siddartha19.github.io/Portfolio-Page/)
 
 
 
